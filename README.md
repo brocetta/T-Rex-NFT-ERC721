@@ -1,3 +1,7 @@
+This NFT collection is live on this link:
+
+https://testnets.opensea.io/collection/trexnft?search[toggles][0]=IS_NEW
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
