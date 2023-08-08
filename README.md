@@ -1,6 +1,6 @@
 This NFT collection is live on this link:
 
-https://testnets.opensea.io/collection/trexnft?search[toggles][0]=IS_NEW
+https://testnets.opensea.io/collection/trexnft
 
 # Sample Hardhat Project
 
